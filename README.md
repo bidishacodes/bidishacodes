@@ -1,6 +1,7 @@
 ## # Hi, I'm Bidisha Priyadarshini 👋
 ## 🏅 Certifications & Badges - Microsoft AI Skills Fest 2026 Badge - Badge Verification: [https://www.credly.com/badges/6f3fea96-1bb0-4d21-b6e5-c21643ca562b/public_url] 
-## 🚀 Currently Working On - AI Placement Coach (Microsoft Foundry) - AI Agent Development - Hackathon Projects
+## 🚀 2nd year B.tech student | Exploring Ai agebts , python and Azure AI
+
 ## 🛠 Skills - Python - AI Agents - Microsoft Azure - Azure AI Foundry
 
 <!--
