@@ -1,4 +1,7 @@
-## Hi there 👋
+## # Hi, I'm Bidisha Priyadarshini 👋
+## 🏅 Certifications & Badges - Microsoft AI Skills Fest 2026 Badge - Badge Verification: PASTE_YOUR_CREDLY_LINK_HERE 
+## 🚀 Currently Working On - AI Placement Coach (Microsoft Foundry) - AI Agent Development - Hackathon Projects
+## 🛠 Skills - Python - AI Agents - Microsoft Azure - Azure AI Foundry
 
 <!--
 **bidishacodes/bidishacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
