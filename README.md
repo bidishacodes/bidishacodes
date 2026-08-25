@@ -4,6 +4,9 @@
 
 ## 🛠 Skills - Python - AI Agents - Microsoft Azure - Azure AI Foundry
 
+#creditants
+[ai-skills-fest-2026.png]
+
 <!--
 **bidishacodes/bidishacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
